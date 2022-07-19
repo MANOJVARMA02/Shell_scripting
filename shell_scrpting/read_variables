@@ -1,0 +1,4 @@
+#! /usr/bin/bash
+echo -e "Enter the input : \c"
+read input1
+echo $input1
